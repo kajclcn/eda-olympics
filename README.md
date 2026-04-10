@@ -35,3 +35,25 @@ Source: [Olympic Data — Kaggle](https://www.kaggle.com/datasets/bhanupratapbis
 
 ## Conclusion
 This exploratory data analysis examined Olympic athlete data to identify patterns in demographics, participation trends, medal outcomes, and physical attributes. The analysis highlights the typical age range of Olympic athletes, the growth of global participation, patterns in medal distribution, and the role of physical characteristics in different sports.
+
+## Usage
+To run the code and reproduce the results:
+
+Clone this repository:
+```bash
+git clone https://github.com/kajclcn/eda-olympics.git
+cd eda-olympics
+```
+
+## Contributing
+![text-work](https://github.com/user-attachments/assets/ab8c4422-05ba-4754-8007-cade78ee43c6)
+
+You may review the project notebooks or documents to gain deeper insights into the datasets and analysis.
+
+If you wish to contribute:
+
+- Fork the repository
+- Create a dedicated branch for your changes
+- Implement your updates and submit a pull request
+
+Happy coding :)
