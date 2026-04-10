@@ -14,6 +14,9 @@ An exploratory data analysis on the historical Olympic athletes dataset to under
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
 - **Environment:** Jupyter Notebook
+  
+## Dataset
+Source: [Olympic Data — Kaggle](https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data)
 
 ## Files
 | File | Description |
