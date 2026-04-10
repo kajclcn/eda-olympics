@@ -48,7 +48,7 @@ cd eda-olympics
 ## Contributing
 ![text-work](https://github.com/user-attachments/assets/ab8c4422-05ba-4754-8007-cade78ee43c6)
 
-You may review the project notebooks or documents to gain deeper insights into the datasets and analysis.
+You may review the project notebook or documents to gain deeper insights into the dataset and analysis.
 
 If you wish to contribute:
 
